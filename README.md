@@ -4,7 +4,7 @@ This is a React.js application that allows users to search and view details of P
 
 ## Deployment
 
-🔗 **[LIVE Link](https://your-deployment-link.com)**
+🔗 **[LIVE Link](pokemon-search-app-nine.vercel.app)**
 
 ## Features
 
