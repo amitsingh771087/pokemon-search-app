@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# pokemon-search-app
-A React.js Pokémon Search App using the PokeAPI. Users can search for Pokémon, view them in cards, and click to see detailed information on a dedicated page.
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> c1a9b96 (Initialize project using Create React App)
